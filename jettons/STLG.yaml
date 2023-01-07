@@ -1,0 +1,8 @@
+name: Short&Long
+description: "This is a new token to fly to the moon. Issue of 1 billion coins. Telegram channels: @stlg23news ; @STLGcommunity "
+address: "0:8ba4ba132b49c8a8ae6bd7ad6e3ab92ed2eacf792e5193d3264f18fe5ecc9d96"
+symbol: STLG
+max_supply: 1000000000
+social: 
+  - "https://t.me/STLGcommunity"
+  - "https://t.me/stlg23news"
